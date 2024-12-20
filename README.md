@@ -41,3 +41,12 @@ It is designed to reflect my proficiency in version control, collaboration, and 
    ```bash
    git clone https://github.com/yourusername/git-skills-showcase.git
 ## Feature: Enhanced README
+
+
+## 🌿 Branching Strategy
+
+This repository demonstrates common Git branching workflows:
+1. **Main Branch:** Stable production-ready code.
+2. **Development Branch:** Integration and testing branch.
+3. **Feature Branches:** Used for isolated development of new features.
+4. **Hotfix Branches:** Quickly address production bugs.
