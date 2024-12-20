@@ -40,3 +40,4 @@ It is designed to reflect my proficiency in version control, collaboration, and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/git-skills-showcase.git
+## Feature: Enhanced README
