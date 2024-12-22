@@ -41,3 +41,13 @@ It is designed to reflect my proficiency in version control, collaboration, and 
    ```bash
    git clone https://github.com/yourusername/git-skills-showcase.git
 ### How to use This Repo
+
+
+## ✨ Git Commit Best Practices
+
+This repository demonstrates clean and meaningful Git commit messages:
+
+- `feat: Add user authentication section to FEATURES.md`
+- `fix: Correct typo in FEATURES.md`
+- `docs: Add usage instructions to README`
+- `style: Format markdown files using Prettier`
