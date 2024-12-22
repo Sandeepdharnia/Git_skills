@@ -50,3 +50,11 @@ This repository demonstrates common Git branching workflows:
 2. **Development Branch:** Integration and testing branch.
 3. **Feature Branches:** Used for isolated development of new features.
 4. **Hotfix Branches:** Quickly address production bugs.
+
+## ✨ Git Commit Best Practices
+
+This repository demonstrates clean and meaningful Git commit messages:
+- `feat: Add user authentication section to FEATURES.md`
+- `fix: Correct typo in FEATURES.md`
+- `docs: Add usage instructions to README`
+- `style: Format markdown files using Prettier`
