@@ -40,7 +40,8 @@ It is designed to reflect my proficiency in version control, collaboration, and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/git-skills-showcase.git
-### How to use This Repo
+   
+   
 ## Feature: Enhanced README
 
 
@@ -52,6 +53,10 @@ This repository demonstrates common Git branching workflows:
 3. **Feature Branches:** Used for isolated development of new features.
 4. **Hotfix Branches:** Quickly address production bugs.
 
+
+## ✨ Git Commit Best Practices
+
+This repository demonstrates clean and meaningful Git commit messages:
 
 ## ✨ Git Commit Best Practices
 
